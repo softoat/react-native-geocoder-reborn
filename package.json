@@ -1,6 +1,6 @@
 {
-  "name": "@timwangdev/react-native-geocoder",
-  "version": "1.0.0-alpha.7",
+  "name": "@softoat/react-native-geocoder",
+  "version": "1.0.0-alpha.8",
   "description": "Multi-platform geocoder library for React Native apps.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -28,13 +28,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/timwangdev/react-native-geocoder-reborn",
-  "author": "Yao Wang <tim.wangyao@gmail.com> (https://github.com/timwangdev)",
+  "repository": "https://github.com/softoat/react-native-geocoder-reborn",
+  "author": "Softoat Ltd <contact@softoat.com> (https://github.com/softoat)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timwangdev/react-native-geocoder-reborn/issues"
+    "url": "https://github.com/softoat/react-native-geocoder-reborn/issues"
   },
-  "homepage": "https://github.com/timwangdev/react-native-geocoder-reborn#readme",
+  "homepage": "https://github.com/softoat/react-native-geocoder-reborn#readme",
   "dependencies": {},
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
@@ -55,7 +55,7 @@
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-test-renderer": "^16.11.0",
-    "release-it": "^12.6.3",
+    "release-it": "^15.6.0",
     "typescript": "^3.7.5"
   },
   "peerDependencies": {
